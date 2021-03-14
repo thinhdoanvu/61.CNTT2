@@ -1,6 +1,6 @@
 # ComputerGraphics
 ## Download necessary files
-##### Link here: https://github.com/thinhdoanvu/ComputerGraphics/tree/master/Coding/library
+##### Link here: https://github.com/thinhdoanvu/61.CNTT2/library
 ## Setup
 ##### Step 1.
 ###### Copy:
