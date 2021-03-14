@@ -1,6 +1,6 @@
 # ComputerGraphics
 ## Download necessary files
-##### Link here: https://github.com/thinhdoanvu/61.CNTT2/library.zip
+##### Link here: https://github.com/thinhdoanvu/61.CNTT2/blob/main/library.zip
 ## Setup
 ##### Step 1.
 ###### Copy:
